@@ -1,0 +1,7 @@
+displayName = The Ruin Mod
+author = aarise
+version = 0.5
+
+
+
+
